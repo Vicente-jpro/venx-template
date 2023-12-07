@@ -49,7 +49,9 @@ main {
   border: 0;
 }
 .btn-toggle:hover,
-.btn-toggle:focus {
+.btn-toggle:focus,
+.nav-link:hover,
+.btn-light:hover {
   color: rgba(0, 0, 0, .85);
   background-color: #d2f4ea;
 }
